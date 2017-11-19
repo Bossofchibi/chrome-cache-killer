@@ -1,7 +1,7 @@
 {
     "update_url": "https://clients2.google.com/service/update2/crx",
     "name": "Classic Cache Killer",
-    "version": "2",
+    "version": "2.0.1",
     "manifest_version": 2,
     "description": "Back to Web Store! Automatically clear your browser cache before loading a page. Can be enabled/disabled with a single mouse click.",
     "icons": {
