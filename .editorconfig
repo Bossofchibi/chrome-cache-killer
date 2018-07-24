@@ -1,0 +1,15 @@
+root = true
+
+[*]
+end_of_line = crlf
+insert_final_newline = true
+
+[*.{js,html}]
+charset = utf-8
+indent_style = space
+indent_size = 4
+
+[*.json]
+charset = utf-8
+indent_style = space
+indent_size = 2
